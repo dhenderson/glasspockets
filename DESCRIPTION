@@ -1,0 +1,9 @@
+Package: glasspockets
+Type: Package
+Title: Glasspockets
+Version: 1.0
+Date: 2014-11-24
+Author: David Henderson - fullcontactphilanthropy.com
+Maintainer: David Henderson <david.henderson82@gmail.com>
+Description: R wrapper for the glasspockets.org foundation grants API.
+License: MIT
